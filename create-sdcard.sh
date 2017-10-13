@@ -26,3 +26,6 @@ cp wpa_supplicant.conf /Volumes/boot/wpa_supplicant.conf
 
 # enable SSH enabled
 touch /Volumes/boot/ssh
+
+# /etc/network/interfaces config
+cp interfaces /Volumes/boot/interfaces
